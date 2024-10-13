@@ -1,0 +1,56 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: #d3e7f4; /* light gray background */
+}
+
+#test-string {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #00698f; /* blue text */
+    font-weight: bold;
+}
+
+#input-field {
+    font-size: 24px;
+    padding: 10px;
+    width: 50%;
+    border: 1px solid #ffa07a; /* orange border */
+    border-radius: 5px;
+    background-color: #fff; /* white background */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* subtle shadow */
+}
+
+#time-elapsed {
+    font-size: 24px;
+    margin-top: 20px;
+    color: #20086d; /* green text */
+}
+
+#reset-button {
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ac0000; /* purple background */
+    color: #fff; /* white text */
+    cursor: pointer;
+    transition: background-color 0.2s ease; /* smooth transition */
+}
+
+#reset-button:hover {
+    background-color: #1a0765; /* darker purple on hover */
+}
+
+#reset-button:active {
+    background-color: #1d1a6d; /* original purple on active */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* subtle shadow on active */
+}
+
+#message-section{
+    text-align: center;
+    text-transform:uppercase;
+    color:red;
+    font-size: 20px;
+    background-color: black;
+}
