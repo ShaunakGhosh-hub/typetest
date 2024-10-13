@@ -46,7 +46,8 @@ function checkTypingProgress() {
         } else if (elapsedTime < 15) {
             messageSection.textContent = 'BRO!! GET BACK TO STONE AGE asap';
         } else {
-            messageSection.textContent = 'https://www.flipkart.com/nokia-105-single-sim-keypad-mobile-phone-wireless-fm-radio/p/itm1b5465d126eb5?pid=MOBGQFVGYU2F5CYT&lid=LSTMOBGQFVGYU2F5CYTRPXNNC&marketplace=FLIPKART&q=nokia+mobiles+keypad&store=tyy%2F4io&srno=s_1_1&otracker=AS_QueryStore_OrganicAutoSuggest_1_6_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_6_na_na_na&fm=organic&iid=a961e1de-4797-4810-a60d-75fb855d6a11.MOBGQFVGYU2F5CYT.SEARCH&ppt=hp&ppn=homepage&ssid=71q1qutu680000001728834268618&qH=567b35eef59095c2';
+            
+                messageSection.innerHTML = '<img src="Monkey Gif.gif" alt="Funny GIF" />'
         }
 
         inputField.removeEventListener('input', checkTypingProgress);
