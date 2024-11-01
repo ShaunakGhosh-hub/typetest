@@ -1,0 +1,84 @@
+{
+  "categories": [
+    {
+      "name": "fresh_fruits",
+      "image": "fruits"
+    },
+    {
+      "name": "bath_body",
+      "image": "bathbody"
+    },
+    {
+      "name": "stationary",
+      "image": "stationary"
+    },
+    {
+      "name": "pet_food",
+      "image": "petfood"
+    },
+    {
+      "name": "packaged_food",
+      "image": "packagedfood"
+    },
+    {
+      "name": "munchies",
+      "image": "munchies"
+    },
+    {
+      "name": "kitchen",
+      "image": "kitchen"
+    },
+    {
+      "name": "bread_biscuit",
+      "image": "breadbiscuit"
+    },
+    {
+      "name": "beverages",
+      "image": "beverages"
+    }
+  ],
+  "items": [
+    {
+      "name": "banana_robusta",
+      "category": "fresh_fruits",
+      "weight": "1kg",
+      "price": 100,
+      "image": "banana"
+    },
+    {
+      "name": "shimla_apple",
+      "category": "fresh_fruits",
+      "weight": "1kg",
+      "price": 250,
+      "image": "apples"
+    },
+    {
+      "name": "Pomegranate",
+      "category": "fresh_fruits",
+      "weight": "500g",
+      "price": 150,
+      "image": "pomegranate"
+    },
+    {
+      "name": "Pineapple",
+      "category": "fresh_fruits",
+      "weight": "1kg",
+      "price": 130,
+      "image": "pineapple"
+    },
+    {
+      "name": "papaya_semi_ripe",
+      "category": "fresh_fruits",
+      "weight": "1kg",
+      "price": 140,
+      "image": "papaya"
+    },
+    {
+      "name": "diet_coke",
+      "category": "beverages",
+      "weight": "1L",
+      "price": 50,
+      "image": "diet_coke"
+    }
+  ]
+}
