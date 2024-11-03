@@ -1,84 +1,115 @@
-{
-  "categories": [
-    {
-      "name": "fresh_fruits",
-      "image": "fruits"
-    },
-    {
-      "name": "bath_body",
-      "image": "bathbody"
-    },
-    {
-      "name": "stationary",
-      "image": "stationary"
-    },
-    {
-      "name": "pet_food",
-      "image": "petfood"
-    },
-    {
-      "name": "packaged_food",
-      "image": "packagedfood"
-    },
-    {
-      "name": "munchies",
-      "image": "munchies"
-    },
-    {
-      "name": "kitchen",
-      "image": "kitchen"
-    },
-    {
-      "name": "bread_biscuit",
-      "image": "breadbiscuit"
-    },
-    {
-      "name": "beverages",
-      "image": "beverages"
-    }
-  ],
-  "items": [
-    {
-      "name": "banana_robusta",
-      "category": "fresh_fruits",
-      "weight": "1kg",
-      "price": 100,
-      "image": "banana"
-    },
-    {
-      "name": "shimla_apple",
-      "category": "fresh_fruits",
-      "weight": "1kg",
-      "price": 250,
-      "image": "apples"
-    },
-    {
-      "name": "Pomegranate",
-      "category": "fresh_fruits",
-      "weight": "500g",
-      "price": 150,
-      "image": "pomegranate"
-    },
-    {
-      "name": "Pineapple",
-      "category": "fresh_fruits",
-      "weight": "1kg",
-      "price": 130,
-      "image": "pineapple"
-    },
-    {
-      "name": "papaya_semi_ripe",
-      "category": "fresh_fruits",
-      "weight": "1kg",
-      "price": 140,
-      "image": "papaya"
-    },
-    {
-      "name": "diet_coke",
-      "category": "beverages",
-      "weight": "1L",
-      "price": 50,
-      "image": "diet_coke"
-    }
-  ]
-}
+[
+  {
+    "stringResourceId": "Shimla Apple",
+    "itemCategoryId": "Fresh Fruits",
+    "itemQuantity": "1 kg",
+    "item_price": 250,
+    "imageResourceId": "https://trainings.internshala.com/uploads/android/grocery_delivery_app/apples.png"
+  },
+  {
+    "stringResourceId": "Banana Robusta",
+    "itemCategoryId": "Fresh Fruits",
+    "itemQuantity": "1 kg",
+    "item_price": 90,
+    "imageResourceId": "https://trainings.internshala.com/uploads/android/grocery_delivery_app/banana.png"
+  },
+  {
+    "stringResourceId": "Papaya Semi Ripe",
+    "itemCategoryId": "Fresh Fruits",
+    "itemQuantity": "1 kg",
+    "item_price": 75,
+    "imageResourceId": "https://trainings.internshala.com/uploads/android/grocery_delivery_app/papaya.png"
+  },
+  {
+    "stringResourceId": "Pomegranate",
+    "itemCategoryId": "Fresh Fruits",
+    "itemQuantity": "1 kg",
+    "item_price": 200,
+    "imageResourceId": "https://trainings.internshala.com/uploads/android/grocery_delivery_app/pomegranate.png"
+  },
+  {
+    "stringResourceId": "Cherry",
+    "itemCategoryId": "Fresh Fruits",
+    "itemQuantity": "100 g",
+    "item_price": 199,
+    "imageResourceId": "https://trainings.internshala.com/uploads/android/grocery_delivery_app/cherry.png"
+  },
+  {
+    "stringResourceId": "Green Grapes",
+    "itemCategoryId": "Fresh Fruits",
+    "itemQuantity": "500 g",
+    "item_price": 65,
+    "imageResourceId": "https://trainings.internshala.com/uploads/android/grocery_delivery_app/grapes.png"
+  },
+  {
+    "stringResourceId": "Kiwi Green",
+    "itemCategoryId": "Fresh Fruits",
+    "itemQuantity": "250 g",
+    "item_price": 109,
+    "imageResourceId": "https://trainings.internshala.com/uploads/android/grocery_delivery_app/kiwi.png"
+  },
+  {
+    "stringResourceId": "Peach",
+    "itemCategoryId": "Fresh Fruits",
+    "itemQuantity": "500 g",
+    "item_price": 230,
+    "imageResourceId": "https://trainings.internshala.com/uploads/android/grocery_delivery_app/peach.png"
+  },
+  {
+    "stringResourceId": "Strawberry",
+    "itemCategoryId": "Fresh Fruits",
+    "itemQuantity": "200 g",
+    "item_price": 80,
+    "imageResourceId": "https://trainings.internshala.com/uploads/android/grocery_delivery_app/strawberry.png"
+  },
+  {
+    "stringResourceId": "Watermelon",
+    "itemCategoryId": "Fresh Fruits",
+    "itemQuantity": "1 kg",
+    "item_price": 60,
+    "imageResourceId": "https://trainings.internshala.com/uploads/android/grocery_delivery_app/watermelon.png"
+  },
+  {
+    "stringResourceId": "Bisleri Water",
+    "itemCategoryId": "Beverages",
+    "itemQuantity": "1 l",
+    "item_price": 20,
+    "imageResourceId": "https://trainings.internshala.com/uploads/android/grocery_delivery_app/bisleri.png"
+  },
+  {
+    "stringResourceId": "Pepsi Can",
+    "itemCategoryId": "Beverages",
+    "itemQuantity": "250 ml",
+    "item_price": 35,
+    "imageResourceId": "https://trainings.internshala.com/uploads/android/grocery_delivery_app/pepsi.png"
+  },
+  {
+    "stringResourceId": "Real Pomegranate Juice",
+    "itemCategoryId": "Beverages",
+    "itemQuantity": "1 l",
+    "item_price": 121,
+    "imageResourceId": "https://trainings.internshala.com/uploads/android/grocery_delivery_app/realfruitjuice.png"
+  },
+  {
+    "stringResourceId": "Roohafza Bottle",
+    "itemCategoryId": "Beverages",
+    "itemQuantity": "750 ml",
+    "item_price": 175,
+    "imageResourceId": "https://trainings.internshala.com/uploads/android/grocery_delivery_app/roohafza.png"
+  },
+
+  {
+    "stringResourceId": "Tomato",
+    "itemCategoryId": "Fresh Vegetables",
+    "itemQuantity": "500 g",
+    "item_price": 20,
+    "imageResourceId": "https://trainings.internshala.com/uploads/android/grocery_delivery_app/tomato.png"
+  },
+  {
+    "stringResourceId": "Potato",
+    "itemCategoryId": "Fresh Vegetables",
+    "itemQuantity": "500 g",
+    "item_price": 15,
+    "imageResourceId": "https://trainings.internshala.com/uploads/android/grocery_delivery_app/potato.png"
+  }
+]
